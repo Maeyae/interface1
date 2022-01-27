@@ -25,6 +25,7 @@ class _MyappState extends State<Myapp> {
           title: Text('My App'),
         ),
         body: Center(
+          child: DelayedAnimation(delay: 1000, child: FlutterLogo(size: 200,),)
         ),
       ),
     );
