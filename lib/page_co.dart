@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'main.dart';
 import 'delayed_animation.dart';
+import 'main.dart';
+
 
 class PageCo extends StatelessWidget {
   @override
