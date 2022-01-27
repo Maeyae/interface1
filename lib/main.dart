@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'delayed_animation.dart';
 
 
 void main() {
